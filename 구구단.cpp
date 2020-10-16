@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	for (int i=1; i < 9; i++) //"9를 10으로"
+	for (int i=1; i < 10; i++) //"9를 10으로"
 	{
 		for (int j = 1; j < 10; j++)
 		{
